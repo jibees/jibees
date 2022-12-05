@@ -7,3 +7,6 @@
 
 
 Feel free to reach me if needed!
+
+
+[![jibees's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibees&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
